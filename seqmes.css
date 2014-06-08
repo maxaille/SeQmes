@@ -1,0 +1,26 @@
+QMainWindow {
+	background-color: white;
+}
+
+QSplitter::handle {
+	image: url(handle.png);
+	background-color: white;
+	color:white;
+}
+
+QListWidget {
+	border: 1px solid #DDD;
+}
+
+QListWidget::item:selected{
+	background-color: #acec12;
+	border:none;
+}
+
+QTextEdit {
+	border: 1px solid #DDD;
+}
+
+QLineEdit {
+	border: 1px solid #DDD;
+}

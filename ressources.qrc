@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>defaultUser.png</file>
+        <file>background.gif</file>
+        <file alias="icon">icon.png</file>
+    </qresource>
+</RCC>
